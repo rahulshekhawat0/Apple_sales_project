@@ -1,5 +1,5 @@
 
-# https://github.com/user-attachments/assets/94cc29fc-9032-4235-bca8-ad2ddd7cda58 Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# ![Ap](https://github.com/user-attachments/assets/15c6cdae-989d-45e9-a9b5-5865973def2c) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 ## Project Overview
 
