@@ -1,5 +1,5 @@
 
-# ![Apple Logo](https://github.com/user-attachments/assets/cf559878-440a-456d-bedd-05135ea6117a)) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# ![Apple Logo](https://github.com/user-attachments/assets/94cc29fc-9032-4235-bca8-ad2ddd7cda58) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 ## Project Overview
 
