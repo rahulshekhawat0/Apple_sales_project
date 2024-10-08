@@ -1,7 +1,8 @@
 # Apple_sales_project
+https://github.com/user-attachments/assets/cf559878-440a-456d-bedd-05135ea6117a
 
-Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
-Welcome to my project, where I developed and analyzed over 1 million rows of Apple retail sales data using advanced SQL querying techniques. This project demonstrates my ability to work with large-scale datasets and extract valuable insights, showcasing my SQL expertise.
+
+#Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 Project Overview
 In this project, I explore the sales performance of Apple products across various retail stores worldwide. The dataset includes detailed information on products, sales transactions, store locations, and warranty claims. Through a series of complex SQL queries, I extract meaningful insights that help understand sales trends, customer behavior, and product performance.
