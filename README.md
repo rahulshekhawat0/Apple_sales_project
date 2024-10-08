@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Project Overview In this project, I explore the sales performance of Apple products across various retail stores worldwide. The dataset includes detailed information on products, sales transactions, store locations, and warranty claims. Through a series of complex SQL queries, I extract meaningful insights that help understand sales trends, customer behavior, and product performance.
+In this project, I explore the sales performance of Apple products across various retail stores worldwide. The dataset includes detailed information on products, sales transactions, store locations, and warranty claims. Through a series of complex SQL queries, I extract meaningful insights that help understand sales trends, customer behavior, and product performance.
 
 The primary focus of this project is to refine and showcase my SQL skills, solving real-world business problems through data-driven decision-making.
 
